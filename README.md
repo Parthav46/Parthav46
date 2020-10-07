@@ -16,4 +16,4 @@ So this is what you might want to know about me.
 - .NET
 - and some I don't even remember but I can if I see the code.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Parthav46)
+![github stats](https://github-readme-stats.vercel.app/api?username=Parthav46&show_icons=true)
