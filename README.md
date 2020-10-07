@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Parthav46/Parthav46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So this is what you might want to know about me.
 
-Here are some ideas to get you started:
+## Technologies I Like to develop in:
+- IoT
+- Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Can develop in:
+- IoT
+- Android
+- Web (HTML/CSS/Vanilla JS)
+- Django
+- React
+- React native
+- .NET
+- and some I don't even remember but I can if I see the code.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Parthav46)
