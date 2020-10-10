@@ -7,8 +7,6 @@ So this is what you might want to know about me.
 - Android
 
 ## Technologies I Can develop in:
-- IoT
-- Android
 - Web (HTML/CSS/Vanilla JS)
 - Django
 - React
