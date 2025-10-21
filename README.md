@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hey there, I'm Parthav</h1>
   <p>I build stuff, solve problems, and learn new things every day. Like animating this little guy over here</p>
-  <img src="https://github.com/user-attachments/assets/9e3ce2aa-60f4-4267-b42c-9cdfe01403b1" width="600px" alt="bot_move">
+  <img src="./res/gif/movement.gif" width="600px" alt="bot_move">
 </div>
 
 ## 🧑‍💻 About Me
